@@ -1,0 +1,292 @@
+31336 - TRABAJO FIN DE MÁSTER EN FORMACIÓN DE PROFESORADO EN EDUCACIÓN
+SECUNDARIA OBLIGATORIA Y BACHILLERATO
+Información de la asignatura
+Código - Nombre: 31336 - TRABAJO FIN DE MÁSTER EN FORMACIÓN DE PROFESORADO EN EDUCACIÓN
+SECUNDARIA OBLIGATORIA Y BACHILLERATO
+Titulación: 481 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato.
+Administración de Empresas y Economía
+482 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Biología y Geología
+483 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Física y Química
+484 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Matemáticas
+485 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Dibujo
+486 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Educación Física
+487 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Filosofía
+488 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Inglés
+489 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Francés
+490 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Griego y Latín
+491 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Geografía e Historia
+492 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Lengua Castellana y
+Literatura
+493 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Música
+613 - Máster en Formación de Profesorado en Educación Secundaria Obligatoria y Bachillerato. Orientación Educativa
+(2013)
+716 - Doble Máster en Formación de Profesorado de Educación Secundaria Obligatoria y Bachillerato (Especialidad en
+Francés) y Estudios Internacionales Francófonos
+Centro: 201 - Facultad de Formación de Profesorado y de la Educación
+Curso Académico: 2024/25
+1. Detalles de la asignatura
+1.1. Materia
+TRABAJO FIN DE MÁSTER
+1.2. Carácter
+Trabajo fin de máster
+1.3. Nivel
+481 - Máster (MECES 2)
+482 - Máster (MECES 3)
+483 - Máster (MECES 3)
+484 - Máster (MECES 3)
+485 - Máster (MECES 3)
+613 - Máster (MECES 3)
+486 - Máster (MECES 3)
+487 - Máster (MECES 3)
+488 - Máster (MECES 3)
+489 - Máster (MECES 3)
+490 - Máster (MECES 3)
+491 - Máster (MECES 3)
+Código Seguro de Verificación: Fecha: 15/07/2024
+Firmado por: Esta guía docente no estará firmada mediante CSV hasta el cierre de actas
+1/6
+Url de Verificación: Página: 1/6492 - Máster (MECES 3)
+716 - Máster (MECES 3)
+493 - Máster (MECES 3)
+1.4. Curso
+1
+1.5. Semestre
+Anual
+1.6. Número de créditos ECTS
+6.0
+1.7. Idioma
+Español
+1.8. Requisitos previos
+Para su presentación haber superado el resto de las materias del máster
+1.9. Recomendaciones
+-
+1.10. Requisitos mínimos de asistencia
+-
+1.11. Coordinador/a de la asignatura
+Carlos Javier Carlos Morales
+https://autoservicio.uam.es/paginas-blancas/
+1.12. Competencias y resultados del aprendizaje
+1.12.1. Competencias / Resultados del proceso de formación y aprendizaje
+COMPETENCIAS GENERALES
+CB6 - Poseer y comprender conocimientos que aporten una base u oportunidad de ser originales en el desarrollo y/o aplicación
+de ideas, a menudo en un contexto de investigación
+CB7 - Que los estudiantes sepan aplicar los conocimientos adquiridos y su capacidad de resolución de problemas en entornos
+nuevos o poco conocidos dentro de contextos más amplios (o multidisciplinares) relacionados con su área de estudio
+CB8 - Que los estudiantes sean capaces de integrar conocimientos y enfrentarse a la complejidad de formular juicios a partir de
+una información que, siendo incompleta o limitada, incluya reflexiones sobre las responsabilidades sociales y éticas vinculadas
+a la aplicación de sus conocimientos y juicios
+CB9 - Que los estudiantes sepan comunicar sus conclusiones y los conocimientos y razones últimas que las sustentan a
+públicos especializados y no especializados de un modo claro y sin ambigüedades
+CB10 - Que los estudiantes posean las habilidades de aprendizaje que les permitan continuar estudiando de un modo que
+habrá de ser en gran medida autodirigido o autónomo.
+GI1 - Conocer los contenidos curriculares de las materias, relacionadas con la especialización docente correspondiente, así
+como el cuerpo de conocimientos didácticos en torno a los procesos de enseñanza y aprendizaje respectivos. Para la
+formación profesional se incluirá el conocimiento de las respectivas profesiones.
+GI2 - Conocer la normativa y organización institucional del sistema educativo y modelos de mejora de la calidad con aplicación
+a los centros de enseñanza.
+GI3 - Conocer y analizar las características históricas de la profesión docente, su situación actual, perspectivas e interrelación
+con la realidad social de cada época.
+GIp1 - Adquirir estrategias para estimular el esfuerzo del estudiante y promover su capacidad para aprender por sí mismo y con
+los otros, y desarrollar habilidades de pensamiento y de decisión que faciliten, la autonomía, la confianza e iniciativa
+personales.
+GIp2 - Conocer los procesos de interacción y comunicación en el aula, dominar destrezas y habilidades sociales necesarias
+para fomentar el aprendizaje y la convivencia en el aula, y abordar problemas de disciplina y resolución de conflictos.
+GIp3 - Desarrollar las funciones de tutoría y orientación de los estudiantes de manera colaborativa y coordinada; participar en
+la evaluación, investigación y la innovación de los procesos de enseñanza y aprendizaje
+GS1 - Planificar, desarrollar y evaluar el proceso de enseñanza y aprendizaje potenciando procesos educativos que faciliten la
+adquisición de las competencias propias de las respectivas enseñanzas, atendiendo al nivel y formación previa de los
+estudiantes, así como la orientación de los mismos, tanto individualmente como en colaboración con otros docentes y
+Código Seguro de Verificación: Fecha: 15/07/2024
+Firmado por: Esta guía docente no estará firmada mediante CSV hasta el cierre de actas
+2/6
+Url de Verificación: Página: 2/6profesionales del centro.
+GS2 - Buscar, obtener, procesar y comunicar información (oral, impresa, audiovisual, digital o multimedia), transformarla en
+conocimiento y aplicarla en los procesos de enseñanza y aprendizaje, en las materias propias de la especialización cursada.
+GS3 - Concretar el currículo que se vaya a implantar en un centro docente participando en la aplicación colectiva del mismo;
+desarrollar y aplicar metodologías didácticas, tanto grupales como personalizadas, adaptadas a la diversidad de los
+estudiantes.
+GS4 - Diseñar y desarrollar espacios de aprendizaje con especial atención a la equidad, la educación emocional y en valores,
+la igualdad de derechos y oportunidades entre hombres y mujeres, la formación ciudadana y el respeto de los derechos
+humanos que facilites la vida en sociedad, la toma de decisiones y la construcción de un futuro sostenible.
+GS5 - Diseñar y realizar actividades formales y no formales que contribuyan a hacer del centro un lugar de participación y
+cultura en el entorno donde esté ubicad. Desarrollar las funciones de tutoría y orientación de los estudiantes de manera
+colaborativa y coordinada; participar en la evaluación, investigación y la innovación de los procesos de enseñanza y
+aprendizaje.
+GS6 - Conocer la normativa y organización institucional del sistema educativo y modelos de mejora de la calidad con aplicación
+a los centros de enseñanza.
+GS7 - Conocer y analizar las características históricas de la profesión docente, su situación actual, perspectivas e interrelación
+con la realidad social de cada época.
+GS8 - Informar y asesorar a las familias acerca del proceso de enseñanza y aprendizaje, sobre la orientación personal,
+académica y profesional de sus hijos.
+COMPETENCIAS TRANSVERSALES
+T. 1. Capacidad de análisis y síntesis.
+T. 2. Capacidad para aplicar los conocimientos a la práctica.
+T. 3. Capacidad de reflexión en los ámbitos personal, profesional y social.
+T. 4. Disposición para la organización y planificación.
+T. 5. Capacidad de gestión, análisis y búsqueda de información de fuentes diversas.
+T. 6. Capacidad para el autocontrol y la motivación.
+T. 7. Capacidad para la comunicación y el trabajo en equipo.
+T. 8. Habilidad para la utilización de las tecnologías de la información y comunicación.
+T. 9. Capacidad para la utilización de la lengua inglesa.
+COMPETENCIAS ESPECÍFICAS
+E.1. Conocer el valor formativo y cultural de materias correspondientes a la especialización y los contenidos que se cursan en
+la enseñanza secundaria.
+E.2. Conocer la historia y los desarrollos recientes de las materias y sus perspectivas para trasmitir una visión dinámica de las
+mismas.
+E.3. Conocer contextos y situaciones en que se usan o aplican los diversos contenidos curriculares.
+E.4. Conocer los desarrollos teórico-prácticos de la enseñanza y el aprendizaje de las materias correspondientes.
+E.5. Adquirir criterios de selección y elaboración de materiales educativos.
+E.6. Conocer estrategias y técnicas de evaluación y entender la evaluación como un instrumento de regulación y estímulo al
+esfuerzo.
+E.7. Conocer y aplicar propuestas docentes innovadoras en el ámbito de la especialización cursada.
+E.8. Conocer los procesos psicológicos implicados en el aprendizaje.
+E.9. Conocer las características de los estudiantes, sus contextos sociales y motivaciones.
+E.10. Comprender el desarrollo de la personalidad de los estudiantes y las posibles disfunciones que afectan al aprendizaje.
+E.11. Conocer la evolución histórica de la familia, su función educadora y su incidencia en la educación y en el respeto de la
+igualdad, los derechos y las libertades.
+E.12. Conocer la evolución del mundo laboral, la interacción entre sociedad, trabajo y calidad de vida, así como la necesidad
+de adquirir la formación adecuada para la adaptación a los cambios y transformaciones que pueda requerir la profesión
+docente.
+E.13. Fomentar un clima que facilite el aprendizaje y ponga en valor las aportaciones de los estudiantes.
+E.14. Identificar los problemas relativos a la enseñanza y aprendizaje de las materias de la especialización y plantear
+alternativas y soluciones.
+E.15. Desarrollar y aplicar metodologías didácticas grupales y personalizadas adaptadas a la diversidad de los estudiantes y a
+las exigencias de las materias.
+E.16. Adquirir habilidades sociales en la relación y la orientación familiar
+E.17. Conocer los procesos y recursos para la prevención de problemas de aprendizaje y convivencia, los procesos de
+evaluación y orientación académica y profesional.
+E.18. Transformar los currículos en programas de actividades y de trabajo.
+E.19. Integrar la formación en comunicación audiovisual, informática y multimedia en el proceso de enseñanza-aprendizaje
+E.20. Analizar críticamente el desempeño de la docencia, de las buenas prácticas y de la orientación, utilizando indicadores de
+calidad.
+Código Seguro de Verificación: Fecha: 15/07/2024
+Firmado por: Esta guía docente no estará firmada mediante CSV hasta el cierre de actas
+3/6
+Url de Verificación: Página: 3/6E.21. Conocer y aplicar metodologías y técnicas básicas de investigación y evaluación educativas y ser capaz de diseñar y
+desarrollar proyectos de investigación, innovación y evaluación.
+E.22. Analizar los componentes estructurales y dinámicos del centro educativo como organización.
+E.23. Contribuir a procesos de desarrollo de la profesión y la materia a través de su participación en comunidades de
+enseñanza-aprendizaje y en la planificación colegiada del Centro docente.
+1.12.2. Resultados de aprendizaje
+-
+1.12.3. Objetivos de la asignatura
+-
+1.13. Contenidos del programa
+El contenido principal de la asignatura versará sobre un proyecto de investigación y/o innovación docente en la especialidad
+correspondiente.
+Todos los trabajos fin de master consistirán en propuestas relacionadas con la didáctica, con los procesos de enseñanza y
+aprendizaje y, en su caso, con la iniciación a la investigación educativa; siempre, en el ámbito de la docencia en educación
+secundaria obligatoria y bachillerato, de su especialidad.
+Estos trabajos deben tener una orientación hacia la formación del profesorado de estos niveles educativos. Además, en la
+medida de lo posible, deben presentar una propuesta innovadora, didáctica y de mejora de la realidad educativa; teniendo en
+cuenta que se trata de una primera aproximación profesional al ámbito de la docencia en Educación Secundaria Obligatoria y
+Bachillerato.
+1.14. Referencias de consulta
+Carbonell, J. (2015). Pedagogías del siglo XXI. Alternativas para la Innovación educativa. Barcelona: Octaedro.
+Carbonell, J. (2001). La aventura de innovar. Madrid: Morata.
+Eisner, E. (1998). El ojo ilustrado. Indagación cualitativa y mejora de la práctica educativa. Barcelona: Paidós.
+Elliot, J. (1993). El cambio educativo desde la investigación-acción. Madrid: Morata.
+Fullan, M. (2019). El matiz. Por qué unos líderes triunfan y otros fracasan. Madrid: Morata.
+Fullan, M. (2002). Los nuevos significados del cambio en la educación. Barcelona: Octaedro.
+Hargreaves, A. y Shirley, D. (2009). The Fourth Way: The Inspiring Future for Educational Change. Londres: Corwin.
+Hargreaves, A., y otros (2001). Aprender a cambiar. La enseñanza más allá de las materias y los niveles. Barcelona: Octaedro.
+Hargreaves, A., y otros (1998). Una educación para el cambio. Reinventar la educación de los adolescentes. Barcelona:
+Octaedro.
+Latorre, A. (2003). La investigación-acción: conocer y cambiar la práctica educativa. Barcelona: Graó.
+Martínez, M. y Jolonch, A. (Coord.) (2019). Las paradojas de la innovación educativa. Barcelona: Horsori.
+McMillan, J.S., y Schumacher, S. (2005). Investigación educativa: una introducción conceptual. Madrid: Pearson.
+Moliné, B.; Planes, Ll.; Bonals, J. (2019). Educando para otro mundo posible: por una escuela comprometida. Barcelona: Graó.
+Murillo, F.J., y Muñoz-Repiso, M. (Coords.) (2002). La mejora de la escuela: un cambio de mirada. Barcelona: Octaedro.
+Perrenaud, P. (2019). La organización del trabajo, clave de toda pedagogía diferenciada. Barcelona: Graó.
+Rivas Navarro, M. (2000). Innovación Educativa. Teoría, procesos y estrategias. Madrid: Síntesis.
+Sancho, J.M., y otros (1998). Aprendiendo de las innovaciones en los centros. Barcelona: Octaedro.
+Stoll, L., y Fink, D. (1999) Para cambiar nuestras escuelas. Reunir eficacia y mejora. Barcelona: Octaedro.
+Tójar Hurtado, J.C. (2006). Investigación cualitativa. Comprender y actuar. Madrid: La Muralla.
+Torre, S. de la (1997). Innovación Educativa. El proceso de innovación. Madrid: Dykinson.
+Torre, S. de la y otros (1998). Cómo innovar en los centros educativos. Estudio de casos. Madrid: Escuela Española.
+Uruñuela, P. (2019). La gestión del aula. Madrid: Narcea.
+2. Metodologías docentes y tiempo de trabajo del estudiante
+2.1. Presencialidad
+Se estima que la realización del TFM requerirá aproximadamente 150 horas de trabajo del estudiante, de las cuales
+aproximadamente 25 horas se dedicarán a actividades presenciales (tutorías, seminarios, sesiones formativas, etc.), mientras
+las 125 horas restantes se destinarán a trabajo autónomo del estudiante (preparación, elaboración y defensa de la memoria del
+Trabajo Fin de Máster). Cada estudiante acordará con su tutor la distribución exacta de las horas de trabajo entre las
+actividades formativas presenciales y el trabajo autónomo del estudiante. Para la superación de la asignatura, será obligatoria
+la asistencia del estudiante a las actividades formativas establecidas por el tutor.
+2.2. Relación de actividades formativas
+Código Seguro de Verificación: Fecha: 15/07/2024
+Firmado por: Esta guía docente no estará firmada mediante CSV hasta el cierre de actas
+4/6
+Url de Verificación: Página: 4/6Tutoría individual y/o grupal: 25 horas.
+■
+Preparación, elaboración y defensa de la memoria del Trabajo fin de Máster y, en su caso, participación en seminarios
+■
+u otras actividades apropiadas para la preparación y la realización del TFM: 125 horas.
+3. Sistemas de evaluación y porcentaje en la calificación final
+3.1. Convocatoria ordinaria
+Para poder proceder a la defensa del TFM en convocatoria ordinaria será necesario haber superado todos los créditos
+referidos al resto de materias que componen el Máster.
+Los criterios de evaluación del TFM están referidos directamente al conjunto de competencias abordadas por este título
+universitario y, en concreto, a las competencias directamente vinculadas con este trabajo, aglutinador de los aprendizajes
+realizados y la experiencia acumulada durante la realización del Máster.
+El TFM se defenderá en sesión pública ante un tribunal formado por 3 profesores del máster. Corresponde a la dirección del
+máster, a propuesta de los coordinadores de especialidad, el nombramiento de los tribunales para defensa de los TFM.
+Se considerará una falta grave el plagio total o parcial del TFM y el alumno no podrá defenderlo ni obtener el título. Además, en
+la convocatoria que curse aparecerá el estudiante con la calificación de 0,0.
+Sistema de Calificaciones
+El sistema de calificación que se aplicará en cada una de las asignaturas que configuran este módulo se regirá de acuerdo con
+lo establecido en el RD 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de
+calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+3.1.1. Relación actividades de evaluación
+Actividad de evaluación Ponderación máxima
+Seguimiento del proceso de elaboración 10
+del TFM por parte del tutor
+Análisis y Valoración del Trabajo fin de 50
+Máster por parte del tribunal
+Valoración de la Defensa del Trabajo fin 40
+de Máster en sesión pública por parte del
+tribunal
+3.2. Convocatoria extraordinaria
+Deberán presentarse a la convocatoria extraordinaria aquéllos estudiantes que no hayan superado la asignatura en
+convocatoria ordinaria. Igual que en el caso de la evaluación ordinaria, será requisito para poder proceder a la defensa del TFM
+haber superado todos los créditos correspondientes al resto de materias del Máster.
+Los criterios de evaluación del TFM están referidos directamente al conjunto de competencias abordadas por este título
+universitario y, en concreto, a las competencias directamente vinculadas con este trabajo, aglutinador de los aprendizajes
+realizados y la experiencia acumulada durante la realización del Máster.
+El TFM se defenderá en sesión pública ante un tribunal formado por 3 profesores del máster. Corresponde a la dirección del
+máster, a propuesta de los coordinadores de especialidad, el nombramiento de los tribunales para defensa de los TFM.
+Se considerará una falta grave el plagio total o parcial del TFM y el alumno no podrá defenderlo ni obtener el título. Además, en
+la convocatoria que curse aparecerá el estudiante con la calificación de 0,0.
+3.2.1. Relación actividades de evaluación
+Actividad de evaluación Ponderación máxima
+Seguimiento del proceso de elaboración 10
+del TFM por parte del tutor
+Análisis y Valoración del Trabajo fin de 50
+Máster por parte del tribunal
+Valoración de la Defensa del Trabajo fin 40
+de Máster en sesión pública por parte del
+tribunal
+4. Cronograma orientativo
+Nº de Contenido Horas Horas no
+semana presenciales presenciales
+1-3 Elección y asignación de tutor de TFM 2 2
+4-9 Tutorías y/o seminarios para el diseño y 5 24
+Código Seguro de Verificación: Fecha: 15/07/2024
+Firmado por: Esta guía docente no estará firmada mediante CSV hasta el cierre de actas
+5/6
+Url de Verificación: Página: 5/6elaboración del TFM
+10-15 Recogida de datos 0 24
+16-21 Tutorías y/o seminarios de seguimiento de 16 60
+elaboración del TFM
+22 Entrega del TFM 0 0
+23 Preparación de la defensa del TFM 1 15
+24 Defensa del TFM 1 0
+Nota: Desde la Coordinación del Máster, en la web destinada al Máster se publicará un documento que incluirá la información
+relativa al calendario del curso académico en vigor, especificándose la información relativa a todas las fechas de las
+actuaciones y las actividades formativas implicadas en la realización del Trabajo de Fin de Máster. Dicho documento estará
+disponible en el siguiente
+link: https://www.uam.es/Profesorado/Prac_MESOB/1242657782806.htm?language=es&pid=1242657783997&title=Pr%C3%A1cticum%20del%20M%C3%A1ster%20Universitario%20en%20Formaci%C3%B3n%20de%20Profesorado%20de%20Educaci%C3%B3n%20Secundaria%20Obligatoria%20y%20Bachillerato,%20Formaci%C3%B3n%20Profesional%20y%20Ense%C3%B1anzas%20de%20Idiomas%20(MESOB)
+Código Seguro de Verificación: Fecha: 15/07/2024
+Firmado por: Esta guía docente no estará firmada mediante CSV hasta el cierre de actas
+6/6
+Url de Verificación: Página: 6/6

@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
-import pickle
 import os
+from pathlib import Path
 
 st.set_page_config(page_title="Asistente MESOB", page_icon="🎓", layout="wide")
 st.title("🎓 Asistente MESOB")
@@ -27,21 +27,23 @@ if not api_key:
     st.stop()
 
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel("gemini-2.0-flash")
+model = genai.GenerativeModel("gemini-1.5-flash-8b")
 
 # Carga documentos procesados
 @st.cache_resource
 def load_documents():
-    db_file = "./mesob_documents.pkl"
-    if os.path.exists(db_file):
-        with open(db_file, "rb") as f:
-            return pickle.load(f)
-    return []
+    docs = []
+    docs_path = Path("./docs")
+    if docs_path.exists():
+        for txt_file in docs_path.glob("*.txt"):
+            with open(txt_file, "r", encoding="utf-8") as f:
+                docs.append(f.read())
+    return docs
 
 documents = load_documents()
 
 # Busca contexto relevante
-def get_context(query, docs, max_chars=2000):
+def get_context(query, docs, max_chars=1000):
     if not docs:
         return ""
     query_words = set(query.lower().split())
@@ -51,7 +53,7 @@ def get_context(query, docs, max_chars=2000):
         scored.append((score, doc))
     scored.sort(reverse=True)
     context = ""
-    for _, doc in scored[:2]:
+    for _, doc in scored[:1]:
         context += doc[:800] + "\n\n"
     return context[:max_chars]
 
