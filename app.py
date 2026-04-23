@@ -41,7 +41,7 @@ def load_documents():
 documents = load_documents()
 
 # Busca contexto relevante
-def get_context(query, docs, max_chars=4000):
+def get_context(query, docs, max_chars=2000):
     if not docs:
         return ""
     query_words = set(query.lower().split())
@@ -51,8 +51,8 @@ def get_context(query, docs, max_chars=4000):
         scored.append((score, doc))
     scored.sort(reverse=True)
     context = ""
-    for _, doc in scored[:3]:
-        context += doc[:1500] + "\n\n"
+    for _, doc in scored[:2]:
+        context += doc[:800] + "\n\n"
     return context[:max_chars]
 
 # Historial de chat
