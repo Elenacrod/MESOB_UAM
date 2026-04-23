@@ -21,13 +21,17 @@ with st.sidebar:
     st.caption("Asistente MESOB - UAM")
 
 # Configura Gemini
-api_key = st.secrets.get("GEMINI_API_KEY", os.environ.get("GEMINI_API_KEY", ""))
+try:
+    api_key = st.secrets["GEMINI_API_KEY"]
+except Exception:
+    api_key = os.environ.get("GEMINI_API_KEY", "")
+
 if not api_key:
     st.error("Falta la API key de Gemini. Configúrala en Streamlit Cloud > Secrets.")
     st.stop()
 
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("models/gemini-1.5-flash")
 
 # Carga documentos procesados
 @st.cache_resource
