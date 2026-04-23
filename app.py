@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+from google import genai
 import os
 from pathlib import Path
 
@@ -30,8 +30,7 @@ if not api_key:
     st.error("Falta la API key de Gemini. Configúrala en Streamlit Cloud > Secrets.")
     st.stop()
 
-genai.configure(api_key=api_key)
-model = genai.GenerativeModel("models/gemini-1.5-flash")
+client = genai.Client(api_key=api_key)
 
 # Carga documentos procesados
 @st.cache_resource
@@ -105,7 +104,10 @@ Documentación disponible:
 
 Pregunta: {prompt}
 """
-            response = model.generate_content(full_prompt)
+            response = client.models.generate_content(
+                model="gemini-1.5-flash",
+                contents=full_prompt
+            )
             st.markdown(response.text)
             st.session_state.messages.append({"role": "assistant", "content": response.text})
 
